@@ -42,8 +42,8 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=AThsPAMA
 
 ### Interests
 
-LLM reasoning and agentic systems, automated benchmark generation, evaluation
-methodology, and interpretability. Currently relocating to the EU/UK.
+LLM reasoning and agentic systems, end-to-end data generation pipelines, judges, evaluation
+methodology, and interpretability.
 
 [LinkedIn](https://www.linkedin.com/in/roman-khalikov/) ·
 [Google Scholar](https://scholar.google.com/citations?user=AThsPAMAAAAJ&hl=en)
